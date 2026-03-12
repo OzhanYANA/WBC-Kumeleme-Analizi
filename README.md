@@ -2,17 +2,6 @@
 
 [![TR](https://img.shields.io/badge/Lang-TR-red.svg)](#türkçe) [![EN](https://img.shields.io/badge/Lang-EN-blue.svg)](#english)
 
-### Dosya Yapısı
-- [**wbc_clustering_analysis.ipynb**](./wbc_clustering_analysis.ipynb): Veri ön işleme, K-Means & DBSCAN modellemeleri ve PCA görselleştirmelerini içeren Python Notebook dosyası.
-- [**WBC-Kümeleme-Raporu.pdf**](./WBC-Kümeleme-Raporu.pdf): Analiz süreçlerini ve çıktılarını anlatan proje raporu.
-- [**wdbc.data**](./wdbc.data): Projede kullanılan ana veri seti.
-- [**wdbc.names**](./wdbc.names): Veri seti özelliklerinin detaylarını içeren bilgi dosyası.
-
-### Repository Structure
-- [**wbc_clustering_analysis.ipynb**](./wbc_clustering_analysis.ipynb): Python Notebook containing data preprocessing, K-Means & DBSCAN modeling, and PCA visualizations.
-- [**WBC-Kümeleme-Raporu.pdf**](./WBC-Kümeleme-Raporu.pdf): The project report explaining the analysis processes and outputs.
-- [**wdbc.data**](./wdbc.data): The main dataset used in the analysis.
-- [**wdbc.names**](./wdbc.names): Metadata file detailing the dataset's features.
 ---
 
 ## 🇹🇷 Türkçe
@@ -36,10 +25,11 @@ Bu proje, Wisconsin Breast Cancer (WDBC) veri kümesi temel alınarak denetimsiz
 - Önişleme adımlarının ve uygun küme sayısının belirlenmesinin analiz kalitesine önemli ölçüde katkı sağladığı ortaya konmuştur.
 
 ### Dosya Yapısı
-- `wbc_clustering_analysis.ipynb`: Veri ön işleme, K-Means & DBSCAN modellemeleri ve PCA görselleştirmelerini içeren Python Notebook dosyası.
-- `WBC-Kümeleme-Raporu.pdf`: Analiz süreçlerini ve çıktılarını anlatan proje raporu.
-- `wdbc.data`: Projede kullanılan ana veri seti.
-- `wdbc.names`: Veri seti özelliklerinin detaylarını içeren bilgi dosyası.
+- [**wbc_clustering_analysis.ipynb**](./wbc_clustering_analysis.ipynb): Veri ön işleme, K-Means & DBSCAN modellemeleri ve PCA görselleştirmelerini içeren Python Notebook dosyası.
+- [**WBC-Kümeleme-Raporu.pdf**](./WBC-Kümeleme-Raporu.pdf): Analiz süreçlerini ve çıktılarını anlatan proje raporu.
+- [**wdbc.data**](./wdbc.data): Projede kullanılan ana veri seti.
+- [**wdbc.names**](./wdbc.names): Veri seti özelliklerinin detaylarını içeren bilgi dosyası.
+
 
 ---
 
@@ -64,7 +54,7 @@ This project performs a clustering analysis using an unsupervised learning appro
 - The results demonstrate that preprocessing steps and determining the appropriate number of clusters significantly contribute to the quality of the analysis.
 
 ### Repository Structure
-- `wbc_clustering_analysis.ipynb`: Python Notebook containing data preprocessing, K-Means & DBSCAN modeling, and PCA visualizations.
-- `WBC-Kümeleme-Raporu.pdf`: The project report explaining the analysis processes and outputs.
-- `wdbc.data`: The main dataset used in the analysis.
-- `wdbc.names`: Metadata file detailing the dataset's features.
+- [**wbc_clustering_analysis.ipynb**](./wbc_clustering_analysis.ipynb): Python Notebook containing data preprocessing, K-Means & DBSCAN modeling, and PCA visualizations.
+- [**WBC-Kümeleme-Raporu.pdf**](./WBC-Kümeleme-Raporu.pdf): The project report explaining the analysis processes and outputs.
+- [**wdbc.data**](./wdbc.data): The main dataset used in the analysis.
+- [**wdbc.names**](./wdbc.names): Metadata file detailing the dataset's features.
