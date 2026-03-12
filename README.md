@@ -2,6 +2,17 @@
 
 [![TR](https://img.shields.io/badge/Lang-TR-red.svg)](#türkçe) [![EN](https://img.shields.io/badge/Lang-EN-blue.svg)](#english)
 
+### Dosya Yapısı
+- [**wbc_clusterin_analysis.ipynb**](./nb_odev1.ipynb): Veri ön işleme, K-Means & DBSCAN modellemeleri ve PCA görselleştirmelerini içeren Python Notebook dosyası.
+- [**WBC-Kümeleme-Raporu.pdf**](./WBC-Kümeleme-Ödev-Raporu.pdf): Analiz süreçlerini ve çıktılarını anlatan proje raporu.
+- [**wdbc.data**](./wdbc.data): Projede kullanılan ana veri seti.
+- [**wdbc.names**](./wdbc.names): Veri seti özelliklerinin detaylarını içeren bilgi dosyası.
+
+### Repository Structure
+- [**wbc_clusterin_analysis.ipynb**](./nb_odev1.ipynb): Python Notebook containing data preprocessing, K-Means & DBSCAN modeling, and PCA visualizations.
+- [**WBC-Kümeleme-Raporu.pdf**](./WBC-Kümeleme-Ödev-Raporu.pdf): The project report explaining the analysis processes and outputs.
+- [**wdbc.data**](./wdbc.data): The main dataset used in the analysis.
+- [**wdbc.names**](./wdbc.names): Metadata file detailing the dataset's features.
 ---
 
 ## 🇹🇷 Türkçe
