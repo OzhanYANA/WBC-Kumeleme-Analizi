@@ -1,4 +1,4 @@
-# Wisconsin Breast Cancer Clustering Analysis 🧬
+# Wisconsin Breast Cancer Clustering Analysis 
 
 [![TR](https://img.shields.io/badge/Lang-TR-red.svg)](#türkçe) [![EN](https://img.shields.io/badge/Lang-EN-blue.svg)](#english)
 
